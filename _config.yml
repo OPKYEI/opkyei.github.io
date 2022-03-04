@@ -104,9 +104,9 @@ analytics:
 author:
   name             : "Fred Mensah"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "**Conduct Tours** at Slave Dungeons by providing well-researched and accurate info."
+  location         : "Cape Coast"
+  email            : "frederickmensah97@yahoo.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -132,7 +132,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+       url:https://twitter.com/OpanyinKyei
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
